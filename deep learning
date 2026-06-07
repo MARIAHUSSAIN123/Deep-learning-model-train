@@ -1,0 +1,7 @@
+Weights & Bias    ✅
+Forward Prop      ✅
+Backpropagation   ✅
+Activation Func   ✅ (ReLU + Sigmoid)
+Loss Function     ✅
+Training/Valid    ✅
+Overfitting       ✅
